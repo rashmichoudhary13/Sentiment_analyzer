@@ -1,7 +1,7 @@
 # Opinimate
 A Youtube comment analyzer that tells you if this video is worth watching for you. or not
 
-#TechStack
+# TechStack
 - Django
 - Gemini API
   
