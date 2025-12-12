@@ -1,5 +1,5 @@
 # Opinimate
-A Youtube comment analyzer that tells you if this video is worth watching or not for you.
+A Youtube comment analyzer that tells you if this video is worth watching for you. or not
 
 # ScreenShot
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0bde0257-fcc0-4cf4-a756-8933aa744496" /> <br>
